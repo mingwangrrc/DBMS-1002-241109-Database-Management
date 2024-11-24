@@ -1,17 +1,16 @@
-# DBMS-1002-241109-Database Management Course Repository
-
-## Introduction
-Welcome to the repository for DBMS-1002-241109, a comprehensive Database Management course. This repository is a resource hub for students exploring the fundamental and advanced concepts of database systems, including design, implementation, and management.
+# DBMS-1002 Database Management - Course Repository
 
 ## Course Description
-DBMS-1002-241109 is designed to introduce students to the principles and practices of database management. Through this course, students will gain a solid understanding of database architecture, modeling, SQL, data normalization, and various database management systems (DBMS) like PostgreSQL.
+Welcome to the DBMS-1002 Database Management Course Repository. This repository serves as a resource and guide for students enrolled in the DBMS-1002 course, focusing on the fundamental and advanced concepts of database systems, including design, implementation, and management. The course aims to provide students with a solid understanding of database architecture, modeling, SQL, data normalization, and database management systems like PostgreSQL.
 
 ## Important Notes
-- **Educational Purpose Only**: The materials and code snippets provided here are solely for educational purposes. They are meant to supplement your learning and understanding of database management concepts.
-- **Academic Integrity**: It is crucial to adhere to your institution's academic integrity guidelines. This repository should be used as a reference and learning aid, not a source for copying work. Misuse may lead to serious academic repercussions.
+- **For Review and Understanding Only**: The code and resources in this repository are intended for review purposes and to give a basic idea of how the assignments are structured. They are not meant to be copied directly for your submissions.
+- **Academic Integrity**: It is crucial to adhere to your institution's academic integrity policy when utilizing this repository. Directly copying code for your assignments can result in severe academic consequences.
 
 ## Disclaimer
-The owner of this repository bears no responsibility for any academic misconduct arising from improper use of the materials provided. Users are responsible for ensuring that their use of the repository's content adheres to their academic institution's policies and ethical standards.
+- The information and code in this repository are provided for educational purposes only. The owner of this repository does not condone plagiarism or academic dishonesty.
+- **Responsibility Disclaimer**: I do not take responsibility if copying my code leads to academic issues, including receiving a grade of 0 or other sanctions. It is your responsibility to use these resources ethically and within the guidelines of your academic institution.
+- While efforts are made to keep the repository up-to-date, the owner does not guarantee the accuracy or completeness of the code.
 
 ## Repository Structure
 - **Assignments**: Descriptions and resources for course assignments. Note: Direct solutions are not provided to maintain academic integrity.
@@ -19,14 +18,18 @@ The owner of this repository bears no responsibility for any academic misconduct
 - **Sample Queries**: Example SQL queries and database operations for practice and reference.
 
 ## Usage
-- **Explore**: Review the lecture notes and resources to reinforce your understanding of database concepts.
-- **Practice**: Utilize the sample queries and assignments as a guide for hands-on practice with real database systems.
-- **Contribute**: Contributions to improve or expand the repository's content are welcome, following the guidelines below.
+1. **Explore**: Review the lecture notes and resources to reinforce your understanding of database concepts.
+2. **Practice**: Utilize the sample queries and assignments as a guide for hands-on practice with real database systems.
+3. **Do Not Copy**: Remember, the purpose of these assignments is to challenge and improve your database management skills. Use them for learning, not copying.
 
-## Contribution Guidelines
-Contributions should be educational, relevant, and adhere to best practices in database management. Direct solutions to assignment questions are not allowed. Instead, consider contributing tips, best practices, or additional sample queries that could help fellow students.
+## Contributions
+If you've taken the DBMS-1002 course and wish to contribute to this repository, please ensure your contributions adhere to the following:
+- **No Direct Solutions**: Do not provide direct answers to assignment questions.
+- **Guidance Only**: Provide guidance, best practices, and learning tips instead.
+- **Quality**: Ensure your contributions are clear, well-documented, and follow good database management practices.
 
 ## Contact
-For any queries, suggestions, or concerns about this repository, please [open an issue](link-to-your-repository-issues-section).
+For any questions, suggestions, or discussions regarding this repository, please feel free to [open an issue](link-to-your-repository-issues-section).
 
-Thank you for accessing this repository, and we wish you the best in your journey to mastering database management!
+Thank you for visiting, and best of luck with your studies in Database Management!
+
